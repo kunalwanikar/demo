@@ -1,7 +1,26 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {"timestamp": 1677840257709,
+            "vin": "R1GTESTZZZZZ00014",
+            "evseId": "0019FFFFFFFFFFFF4E456237500D0033",
+            "evcsid": "HC_KABLR_002",
+            "fromTimestamp": 1678948200000,
+            "toTimestamp": 1678949100000 },
+    {
+            "timestamp": 1677840331433,
+            "vin": "P53AFDCB6CBA00662",
+            "evseId": "0019FFFFFFFFFFFF4E456237500D0033",
+            "evcsid": "HC_KABLR_002",
+            "fromTimestamp": 1678912200000,
+            "toTimestamp": 1678914000000
+        },
+    {
+            "timestamp": 1677840485222,
+            "vin": "P53AFDCB6CBA00662",
+            "evseId": "0019FFFFFFFFFFFF4E456237500D0033",
+            "evcsid": "HC_KABLR_002",
+            "fromTimestamp": 1678930200000,
+            "toTimestamp": 1678933800000
+        },
   ]
 }
