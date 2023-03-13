@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "data": [
     {"timestamp": 1677840257709,
             "vin": "R1GTESTZZZZZ00014",
             "evseId": "0019FFFFFFFFFFFF4E456237500D0033",
